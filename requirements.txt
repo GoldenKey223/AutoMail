@@ -1,0 +1,11 @@
+bottle==0.13.4
+cffi==2.0.0
+clr_loader==0.2.8
+Jinja2==3.1.6
+Markdown==3.10
+MarkupSafe==3.0.3
+proxy_tools==0.1.0
+pycparser==2.23
+pythonnet==3.0.5
+pywebview==6.1
+typing_extensions==4.15.0
